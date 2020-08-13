@@ -2,7 +2,8 @@
 */node_modules
 .idea
 */.Ds_Store
-/.env
+# Make sure to update this to match your project
+/project.env
 */.pnp
 */.pnp.js
 
