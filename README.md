@@ -43,4 +43,3 @@
 ## Calling API (In Postman or Insomnia)
 The routes are formed as follows:
 http://`[url]`:`[port]`/api /`[object]`/`[how we want to get it]`:`[param]`
-
