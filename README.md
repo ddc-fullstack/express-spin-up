@@ -1,3 +1,5 @@
+**This repository has been archived.  The updated repository can be found at https://github.com/Deep-Dive-Coding-Fullstack-Licensing/express-spinup-instructions**
+
 # Express and MySQL Spin Up
 ## Set Up
 **The following files are required to add Express and MySQL to an existing application**
